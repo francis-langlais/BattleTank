@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="BattleTank0_1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BattleTank0_1">
+				<Option output="/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/BattleTank0_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 BattleTank0_1"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BattleTank0_1/fast">
+				<Option output="/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/BattleTank0_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 BattleTank0_1/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/eee466/CLionProjects/BattleTank0.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/AssetManager.cpp">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/AssetManager.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/Collider.cpp">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/Collider.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/CollisionDetection.cpp">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/CollisionDetection.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/ECS/Animation.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/ECS/ColliderComponent.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/ECS/Components.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/ECS/ECS.cpp">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/ECS/ECS.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/ECS/KeyboardController.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/ECS/NetworkController.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/ECS/ProjectileComponent.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/ECS/SpriteComponent.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/ECS/TileComponent.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/ECS/TransformComponent.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/EngineMath.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/Game.cpp">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/Game.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/Map.cpp">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/Map.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/MiniMap.cpp">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/MiniMap.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/TextureManager.cpp">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/TextureManager.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/UI/ProgressBar.cpp">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/UI/ProgressBar.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/UI/TextBox.cpp">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/UI/TextBox.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/Vector2D.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/main.cpp">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/protocolbuffer/test.pb.cc">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/protocolbuffer/test.pb.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/spriteSheetAnim.cpp">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/spriteSheetAnim.h">
+			<Option target="BattleTank0_1"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/cmake/FindSDL2.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/cmake/FindSDL2_image.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/home/eee466/CLionProjects/BattleTank0.3/cmake/FindSDL2_ttf.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+
+package test;
+
+message InterfaceMessage {
+
+	enum InterfaceCode {
+		CREATE = 0;
+		UPDATE = 1;
+		DELETE = 2;
+		SET_TEXT = 3;
+		MINIMAP = 4;
+		ACKID = 5;
+	}
+
+	InterfaceCode code = 1;
+	int32 id = 2;
+	int32 Xposition = 3;
+	int32 Yposition = 4;
+	int32 Rotation = 5;
+	int32 hp = 6;
+	string newString = 7;
+	int32 color = 8;
+
+	//Type can be Friendly, Enemy, Rock, Marker, Explosion.
+	enum TypeObject {
+		Friendly = 0;
+		Enemy = 1;
+		Rock = 2;
+		Marker = 3;
+		Explosion = 4;
+	}
+	TypeObject type = 9;
+}

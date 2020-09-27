@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="BattleTank0_1" targetName="BattleTank0_1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" />
+      <configuration PROFILE_NAME="MinSizeRel" CONFIG_NAME="MinSizeRel" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="872a9a8d-2dc5-4594-8e36-57c54cb85e67" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Google Protocol Buffer" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1PgkdrP6ZGSnoJVKiAtmt8vnp6D" />
+  <component name="PropertiesComponent">
+    <property name="GenProtobuf.quickGen" value="C++" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TESTUDP_Client" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/protocolbuffer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/UI" />
+      <recent name="$PROJECT_DIR$/protocol buffer" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ECS" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BattleTank0_1" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BattleTank0_1" TARGET_NAME="BattleTank0_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BattleTank0_1" RUN_TARGET_NAME="BattleTank0_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="872a9a8d-2dc5-4594-8e36-57c54cb85e67" name="Default Changelist" comment="" />
+      <created>1548860390661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548860390661</updated>
+      <workItem from="1548860395896" duration="752000" />
+      <workItem from="1548861322272" duration="4708000" />
+      <workItem from="1548872142211" duration="6429000" />
+      <workItem from="1548947365430" duration="3572000" />
+      <workItem from="1549293442765" duration="1188000" />
+      <workItem from="1549304272942" duration="23000" />
+      <workItem from="1549307065247" duration="1053000" />
+      <workItem from="1549379741201" duration="4891000" />
+      <workItem from="1549388094353" duration="6459000" />
+      <workItem from="1549464393110" duration="5394000" />
+      <workItem from="1549477501453" duration="1209000" />
+      <workItem from="1549899812118" duration="1370000" />
+      <workItem from="1551107194248" duration="892000" />
+      <workItem from="1551281808379" duration="165000" />
+      <workItem from="1551708181308" duration="9149000" />
+      <workItem from="1551723069204" duration="2611000" />
+      <workItem from="1551882382405" duration="2940000" />
+      <workItem from="1551963673689" duration="1559000" />
+      <workItem from="1555330126569" duration="10933000" />
+      <workItem from="1555416408279" duration="7756000" />
+      <workItem from="1555501783136" duration="5422000" />
+      <workItem from="1555507320625" duration="11446000" />
+      <workItem from="1555588131082" duration="10598000" />
+      <workItem from="1556017936214" duration="6249000" />
+      <workItem from="1556105553580" duration="1436000" />
+      <workItem from="1556113863046" duration="2829000" />
+      <workItem from="1556538806564" duration="11063000" />
+      <workItem from="1556624945936" duration="4780000" />
+      <workItem from="1556711833366" duration="8731000" />
+      <workItem from="1556721496900" duration="3260000" />
+      <workItem from="1557141395623" duration="8544000" />
+      <workItem from="1557227452582" duration="4632000" />
+      <workItem from="1557313365361" duration="7697000" />
+      <workItem from="1557402613916" duration="8164000" />
+      <workItem from="1557749977710" duration="7207000" />
+      <workItem from="1557838603082" duration="972000" />
+      <workItem from="1557839648926" duration="2703000" />
+      <workItem from="1558436272594" duration="7988000" />
+      <workItem from="1558523173109" duration="4997000" />
+      <workItem from="1558958044582" duration="3762000" />
+      <workItem from="1559042282898" duration="7357000" />
+      <workItem from="1559125420399" duration="11935000" />
+      <workItem from="1559561263500" duration="11846000" />
+      <workItem from="1559646886039" duration="9257000" />
+      <workItem from="1559732424513" duration="6078000" />
+      <workItem from="1560169139063" duration="3348000" />
+      <workItem from="1560252070028" duration="3061000" />
+      <workItem from="1560257727191" duration="2038000" />
+      <workItem from="1560262970783" duration="723000" />
+      <workItem from="1560263725787" duration="2812000" />
+      <workItem from="1560335492842" duration="9074000" />
+      <workItem from="1560771548174" duration="13164000" />
+      <workItem from="1560855927820" duration="7852000" />
+      <workItem from="1561379646560" duration="6181000" />
+      <workItem from="1561460492108" duration="5416000" />
+      <workItem from="1561472165943" duration="2094000" />
+      <workItem from="1562065980377" duration="12562000" />
+      <workItem from="1562152739681" duration="6417000" />
+      <workItem from="1563190959846" duration="3474000" />
+      <workItem from="1563329375567" duration="48000" />
+      <workItem from="1563447517890" duration="159000" />
+      <workItem from="1563448233781" duration="2955000" />
+      <workItem from="1563621909473" duration="2055000" />
+      <workItem from="1563828363617" duration="25000" />
+      <workItem from="1563876121191" duration="2348000" />
+      <workItem from="1564400806830" duration="7945000" />
+      <workItem from="1566303218487" duration="548000" />
+      <workItem from="1566819432694" duration="3764000" />
+      <workItem from="1567511137017" duration="8783000" />
+      <workItem from="1568028614182" duration="4738000" />
+      <workItem from="1568114130429" duration="7517000" />
+      <workItem from="1569238577555" duration="3165000" />
+      <workItem from="1569242434448" duration="1078000" />
+      <workItem from="1569243706902" duration="933000" />
+      <workItem from="1569245364688" duration="67000" />
+      <workItem from="1569322180016" duration="3632000" />
+      <workItem from="1569855109617" duration="247000" />
+      <workItem from="1570019501896" duration="373000" />
+      <workItem from="1570020902664" duration="1971000" />
+      <workItem from="1571142612783" duration="2030000" />
+      <workItem from="1571658121956" duration="4573000" />
+      <workItem from="1572256205212" duration="432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
